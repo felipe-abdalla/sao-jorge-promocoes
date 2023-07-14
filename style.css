@@ -6,5 +6,6 @@ body{
 
 .promo{
     display: block;
-    height: 100%;
+    width: auto;
+    height: 1600px;
 }
