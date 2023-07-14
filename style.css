@@ -4,8 +4,11 @@ body{
     padding: 0px;
 }
 
+div{
+    text-align: center;
+}
+
 .promo{
-    display: block;
     width: auto;
-    height: 1600px;
+    height: auto;
 }
